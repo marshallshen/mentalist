@@ -40,4 +40,4 @@ Todos
 
 Contribute
 ==========
-    Do whatever you want, sky's the limit.
+Do whatever you want, sky's the limit.
