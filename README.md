@@ -1,7 +1,7 @@
-mentalist
+Mentalist
 =========
 
-Text Sentimental analysis package using Natural Language Tool Kit NLTK (http://nltk.org/)
+Text Emotion analysis package using Natural Language Tool Kit NLTK (http://nltk.org/)
 
 System Requirements
 ===================
