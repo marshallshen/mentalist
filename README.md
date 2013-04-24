@@ -14,7 +14,8 @@ Usage
 In the project directory, you can do this:
 ````
     > python mentalist.py
-    Enter a sentence: today is a great day, I am on a boat drinking and having fun
+    Enter a sentence:
+      "Today is a great day, I am on a boat drinking and having fun!""
 
       analyzing your emotion...
       1.0
@@ -22,15 +23,21 @@ In the project directory, you can do this:
 
     > python mentalist.py
 
-    Enter a sentence: What the hell is going on?
+    Enter a sentence:
+      "What the hell is going on?!"
       ...
 
       analyzing your emotion...
       -1.0
       I am sorry you are upset, I am sure it is not your fault.
+````
 
-Todo
+Todos
 ========
 
   - Finish tests
   - Provide richer dictionaries
+
+Contribute
+==========
+    Do whatever you want, sky's the limit.
